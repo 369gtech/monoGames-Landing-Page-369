@@ -522,7 +522,7 @@
         </div> -->
         <!-- Contact-->
         <section class="page-section" id="contact">
-            <div class="container">
+        <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
                     <h3 class="section-subheading text-muted"></h3>
@@ -536,29 +536,39 @@
                 <!-- to get an API token!-->
                 <!-- <form id="contactForm" data-sb-form-api-token="95282a60-1ff9-433d-82f2-6130e012fc95">
                     -->
-                <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+        <form id="contactForm" name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+            <div class="row text-center align-items-stretch mb-5">
+                <div class="col-md-6">
                     <div class="form-group">
-                      <label for="name">Name:</label>
-                      <input type="text" class="form-control" id="name" name="name" required>
+                        <label for="name">Name:</label>
+                        <input type="text" class="form-control" id="name" placeholder="Your Name *" name="name" required>
                     </div>
                     <div class="form-group">
-                      <label for="email">Email:</label>
-                      <input type="email" class="form-control" id="email" name="email" required>
+                        <label for="faction">Subject:</label>
+                        <input type="text" class="form-control" id="subject" placeholder="Your Faction(s) *" name="faction" required>
                     </div>
-                    <div class="form-group">
-                      <label for="subject">Subject:</label>
-                      <input type="text" class="form-control" id="subject" name="subject" required>
+                    <div class="form-group mb-md-0">
+                        <label for="email">Email:</label>
+                        <input type="email" class="form-control" id="email" placeholder="Email *" name="email" required>
                     </div>
-                    <div class="form-group">
-                      <label for="message">Message:</label>
-                      <textarea class="form-control" rows="10" id="message" name="message" required></textarea>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group form-group-textarea mb-md-0">
+                        <label for="message">Message:</label>
+                        <textarea class="form-control" rows="10" id="message" placeholder="Message *" name="message" required></textarea>
                     </div>
-                    <div class="form-group">
-                      <div data-netlify-recaptcha="true"></div>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                  </form>
+                </div>
             </div>
+                <div class="form-group text-center">
+                    <div data-netlify-recaptcha="true">
+                    </div>
+                </div>
+                </div class="text-center">
+                    <button type="submit" class="btn btn-primary btn-xl">Send Message</button>
+                </div>
+            </div>
+        </form>
+        </div>
         </section>
         <!-- Footer-->
         <footer class="footer py-4">
