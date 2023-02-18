@@ -11374,6 +11374,11 @@ p {
 #mainNav .navbar-brand img {
   height: 1.5rem;
 }
+/* Changes I made today that I might have to delete */
+.navbar-brand img {
+  margin: 0;
+  padding: 0;
+}
 /* Color of the txt all the time */
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
