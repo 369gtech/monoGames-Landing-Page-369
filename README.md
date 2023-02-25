@@ -22,11 +22,13 @@ Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/m
 
 5. [Photopea](https://www.photopea.com/) is how I created the images for the website which is awesome to use.
 
-6. [Netlify](https://app.netlify.com/) my server for my start bootstrap clone which is awesome server and very user friendly to use. I hope to build all my projects with Netlify.
+6. [ReadyPlayerMe](https://readyplayer.me/) is how I created the characters but I manipulated their color and designs using Photopea.
 
-7. [FormSubmit](https://formsubmit.co/) my contact form notification, would have used startbootstrap but my api for the form didn't work and FormSubmit is absolutely free to use.
+7. [Netlify](https://app.netlify.com/) my server for my start bootstrap clone which is awesome server and very user friendly to use. I hope to build all my projects with Netlify.
 
-8. [Paypal](https://www.paypal.com/) is my payment system.
+8. [FormSubmit](https://formsubmit.co/) my contact form notification, would have used startbootstrap but my api for the form didn't work and FormSubmit is absolutely free to use.
+
+9. [Paypal](https://www.paypal.com/) is my payment system.
 
 ## Copyright and MIT License
 
