@@ -25,3 +25,7 @@ Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/m
 6. [ReadyPlayerMe](https://readyplayer.me/) is a free character builder that I used to add to photopea to manipulated their color and designs.
 
 7. [Netlify](https://app.netlify.com/) my server for my start bootstrap clone which is awesome server and very user friendly to use. I hope to build all my projects with Netlify.
+
+8. [FormSubmit](https://formsubmit.co/) a free and easy to use form notification app.
+
+If you need a hand with using this or another bootstrap template at start bootstrap, then please feel free to ask me questions at my [Twitter](https://twitter.com/nftcryptomix) handle for more information and Thank You once again to all the free apps used to building monoGames.
