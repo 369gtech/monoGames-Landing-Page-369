@@ -10,11 +10,23 @@
 
 Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/monoMedia) and Sustainable2Earn (monoGreen) to create a unique, interactive experience which offers a range of interactive, earning opportunities for users through games, social interactions and sustainable actions. We hope by combining these different elements, we can create a unique and engaging experience for our community members to build and flourish in the metaverse.
 
-## Built Using Start Bootstrap
+## Built Using These Wonderful Free Applications
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+1. [VScode](https://code.visualstudio.com/) my text editor, I cant say enough about how good VScode is.
 
-Start Bootstrap was created by and is maintained by David Miller, Thank You.
+2. [GitHub](https://github.com/) my version control, awesome to use.
+
+3. [ChatGTP](https://chat.openai.com/chat) my AI assistant when I needed help with all sorts of things on the this project, Thank You Microsoft.
+
+4. [Start Bootstrap](https://startbootstrap.com/) is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects. Start Bootstrap was created by and is maintained by David Miller, Thank You.
+
+5. [Photopea](https://www.photopea.com/) is how I created the images for the website which is awesome to use.
+
+6. [Netlify](https://app.netlify.com/) my server for my start bootstrap clone which is awesome server and very user friendly to use. I hope to build all my projects with Netlify.
+
+7. [FormSubmit](https://formsubmit.co/) my contact form notification, would have used startbootstrap but my api for the form didn't work and FormSubmit is absolutely free to use.
+
+8. [Paypal](https://www.paypal.com/) is my payment system.
 
 ## Copyright and MIT License
 
