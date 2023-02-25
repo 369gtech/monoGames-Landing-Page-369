@@ -12,11 +12,7 @@ Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/m
 
 ## Built Using These Wonderful Free Applications
 
-<<<<<<< HEAD
-1. [VScode](https://code.visualstudio.com/) my text editor, I cant say enough about how good VScode is.
-=======
 1. [VScode](https://code.visualstudio.com/) my text editor and [NPM](https://docs.npmjs.com/cli/v8/commands/npm-install) for installing packages, I cant say enough about how good VScode and NPM are.
->>>>>>> 5cdb6b843d0964464dcea29e6da8e3420d59545b
 
 2. [GitHub](https://github.com/) my version control, awesome to use.
 
@@ -26,24 +22,6 @@ Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/m
 
 5. [Photopea](https://www.photopea.com/) is how I created the images for the website which is awesome to use.
 
-<<<<<<< HEAD
-6. [ReadyPlayerMe](https://readyplayer.me/) is how I created the characters but I manipulated their color and designs using Photopea.
-=======
 6. [ReadyPlayerMe](https://readyplayer.me/) is a free character builder that I used to add to photopea to manipulated their color and designs.
->>>>>>> 5cdb6b843d0964464dcea29e6da8e3420d59545b
 
 7. [Netlify](https://app.netlify.com/) my server for my start bootstrap clone which is awesome server and very user friendly to use. I hope to build all my projects with Netlify.
-
-8. [FormSubmit](https://formsubmit.co/) my contact form notification, would have used startbootstrap but my api for the form didn't work and FormSubmit is absolutely free to use.
-
-9. [Paypal](https://www.paypal.com/) is my payment system.
-<<<<<<< HEAD
-=======
-
-If you would like help building your web app using the same system, please feel free to ask me questions on my [Twitter](https://twitter.com/nftcryptomix) handle for more information.
->>>>>>> 5cdb6b843d0964464dcea29e6da8e3420d59545b
-
-## Copyright and MIT License
-
-Copyright monoGames 2023 under the MIT License.
-
