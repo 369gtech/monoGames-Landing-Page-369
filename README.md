@@ -16,7 +16,7 @@ Welcome to monoGames a metaverse that combines Play2Earn, Social2Earn (monoSol/m
 
 2. [GitHub](https://github.com/) my version control, awesome to use.
 
-3. [ChatGTP](https://chat.openai.com/chat) my AI assistant when I needed help with all sorts of things on the this project, Thank You Microsoft.
+3. [ChatGTP](https://chat.openai.com/chat) my AI assistant when I needed help with all sorts of things on the this project, Thank You Microsoft. I also used another AI tool for some of the images of the backgrounds I used.
 
 4. [Start Bootstrap](https://startbootstrap.com/) is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects. Start Bootstrap was created by and is maintained by David Miller, Thank You.
 
